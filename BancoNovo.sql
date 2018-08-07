@@ -130,7 +130,7 @@ CREATE TABLE `funcionario` (
 
 LOCK TABLES `funcionario` WRITE;
 /*!40000 ALTER TABLE `funcionario` DISABLE KEYS */;
-INSERT INTO `funcionario` VALUES (2,'Marcos Soares','057 . 397 . 173 - 02','1993-12-21','MASCULINO','(11) 1 . 1111 - 1111',3,'ativo'),(3,'Marcos Soares','111 . 111 . 111 - 11','2223-10-22','MASCULINO','(44) 4 . 4444 - 4444',4,'inativo'),(4,'João','333 . 333 . 333 - 33','1998-12-21','MASCULINO','(85) 9 . 8598 - 8900',NULL,'ativo');
+INSERT INTO `funcionario` VALUES (2,'Marcos Soares','555 . 555 . 555 - 55','1993-12-21','MASCULINO','(11) 1 . 1111 - 1111',3,'ativo'),(3,'Marcos Soares','111 . 111 . 111 - 11','2223-10-22','MASCULINO','(44) 4 . 4444 - 4444',4,'inativo'),(4,'João','333 . 333 . 333 - 33','1998-12-21','MASCULINO','(85) 9 . 8598 - 8900',NULL,'ativo');
 /*!40000 ALTER TABLE `funcionario` ENABLE KEYS */;
 UNLOCK TABLES;
 
